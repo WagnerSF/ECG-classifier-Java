@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author MW
+ * @author WagnerFreitas
  */
 public class Main {
 
